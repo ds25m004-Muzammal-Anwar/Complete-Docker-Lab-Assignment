@@ -169,3 +169,7 @@ data_pdf/
 images/
 
 .DS_Store
+
+.env
+.env.*
+!.env.example
